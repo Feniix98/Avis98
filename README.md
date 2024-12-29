@@ -1,2 +1,2 @@
-# Avis98
-Avis 98 est un plugin permettant une meilleur communication entre staffs / joueurs
+
+**Avis98 c'est quoi ?** C'est un plugin staff avec une commande /avis utilisable par les administrateurs de niveau 1 ou plus cela envoie un panel au joueur le plus proche ou il pourra mettre un avis et un commentaire(facultatif)
